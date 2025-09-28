@@ -2,6 +2,8 @@
 
 This project sketches curves using the `turtlesim` node in **ROS 2**.
 
+Code for the drawing node is in the `project.py` file
+
 ## Overview
 The sketches originate from **parametric equations** (x(t), y(t)), which are converted into **linear** and **angular** velocity commands (v(t), w(t)) for the turtle:
 
