@@ -21,4 +21,4 @@ These are published as `geometry_msgs/Twist` messages to trace the desired path.
 ---
 
 **Requirements:** ROS 2 + `turtlesim` package.  
-**Node output:** Publishes `Twist (linear.x = v, angular.z = ω)` to control the turtle.
+
